@@ -71,5 +71,5 @@ python export_to_openvino.py
 ### Result
 |              | Public LB | Private LB | Runtime |
 | :----------- | :---- | :---- | :---- |
-| yolov8s 1280 | 0.9285 | 0.9226 | 1 hour 40 minutes |
-| yolov8n 1280 | 0.9173 | 0.9098 | 46 minutes |
+| [yolov8s 1280](https://github.com/dungnb1333/Pose-Bowl-Spacecraft-Detection/releases/download/V1.0/yolov8s_1280.zip) | 0.9285 | 0.9226 | 1 hour 40 minutes |
+| [yolov8n 1280](https://github.com/dungnb1333/Pose-Bowl-Spacecraft-Detection/releases/download/V1.0/yolov8n_1280.zip) | 0.9173 | 0.9098 | 46 minutes |
