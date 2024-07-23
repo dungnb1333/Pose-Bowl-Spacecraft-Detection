@@ -10,7 +10,7 @@
 * **Host:** NASA
 * **Platform:** Drivendata
 * **Competition link:** https://www.drivendata.org/competitions/260/spacecraft-detection/
-* **Placement:** 2nd (2/651)
+* **Placement:** 2nd (2/651) + speed bonus prize
 * **User Name:** dungnb
 * **Solution:** [SolutionDocumentation_SpacecraftDetection_DungNB.pdf](https://github.com/dungnb1333/Pose-Bowl-Spacecraft-Detection/blob/main/report/SolutionDocumentation_SpacecraftDetection_DungNB.pdf)
 
