@@ -12,7 +12,7 @@
 * **Competition link:** https://www.drivendata.org/competitions/260/spacecraft-detection/
 * **Placement:** 2nd (2/651) + speed bonus prize
 * **User Name:** dungnb
-* **Solution:** [SolutionDocumentation_SpacecraftDetection_DungNB.pdf](https://github.com/dungnb1333/Pose-Bowl-Spacecraft-Detection/blob/main/report/SolutionDocumentation_SpacecraftDetection_DungNB.pdf)
+* **Solution:** [posebowl-winners](https://drivendata.co/blog/posebowl-winners?utm_source=brevo&utm_campaign=Spacepose%20results%20%20other%20updates&utm_medium=email)
 
 The key of solution is based on synthetic data generation and yolov8 model.
 
