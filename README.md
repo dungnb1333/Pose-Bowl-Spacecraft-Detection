@@ -1,8 +1,8 @@
-# Pose-Bowl-Spacecraft-Detection
+# NASA Spacecraft Detection AI Challenge
 
 ![Alt text](./images/nasa-spacecraft-header.jpg?raw=true "Optional Title")
 
-2nd place solution for [Pose Bowl: Spacecraft Detection Challenge](https://www.drivendata.org/competitions/260/spacecraft-detection/leaderboard/)
+1st place (performance) and 2nd place (accuracy) solution for [NASA Spacecraft Detection AI Challenge](https://www.drivendata.org/competitions/260/spacecraft-detection/leaderboard/)
 
 ### General
 * **Competition Purpose:** identify the boundaries of generic spacecraft in photos.
@@ -50,7 +50,7 @@ python generate_synthetic_data.py
 ```
 
 ### Train model
-Change line 1 in file [./src/spacecraft_data.yaml](https://github.com/dungnb1333/Pose-Bowl-Spacecraft-Detection/blob/main/src/spacecraft_data.yaml?plain=1#L1) to **absolute path** of folder [./dataset/](./dataset) in your system
+Change line 1 in file [./src/spacecraft_data.yaml](https://github.com/dungnb1333/NASA-Spacecraft-Detection-AI-Challenge/blob/main/src/spacecraft_data.yaml?plain=1#L1) to **absolute path** of folder [./dataset/](./dataset) in your system
 
 And run following scripts
 ```shell
@@ -71,5 +71,5 @@ python export_to_openvino.py
 ### Result
 |              | Public LB | Private LB | Runtime |
 | :----------- | :---- | :---- | :---- |
-| [yolov8s 1280](https://github.com/dungnb1333/Pose-Bowl-Spacecraft-Detection/releases/download/V1.0/yolov8s_1280.zip) | 0.9285 | 0.9226 | 1 hour 40 minutes |
-| [yolov8n 1280](https://github.com/dungnb1333/Pose-Bowl-Spacecraft-Detection/releases/download/V1.0/yolov8n_1280.zip) | 0.9173 | 0.9098 | 46 minutes |
+| [yolov8s 1280](https://github.com/dungnb1333/NASA-Spacecraft-Detection-AI-Challenge/releases/download/V1.0/yolov8s_1280.zip) | 0.9285 | 0.9226 | 1 hour 40 minutes |
+| [yolov8n 1280](https://github.com/dungnb1333/NASA-Spacecraft-Detection-AI-Challenge/releases/download/V1.0/yolov8n_1280.zip) | 0.9173 | 0.9098 | 46 minutes |
